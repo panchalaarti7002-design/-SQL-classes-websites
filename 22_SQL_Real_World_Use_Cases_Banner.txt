@@ -1,0 +1,8 @@
+Create a banner showing SQL real-world applications:
+* E-commerce: Order tracking and inventory management
+* Banking: Transaction analysis and fraud detection
+* Healthcare: Patient records and medical data analysis
+* Marketing: Customer segmentation and campaign analysis
+* Icons representing each industry
+* Modern, professional banner design
+* Be10X-style with industry-specific color coding

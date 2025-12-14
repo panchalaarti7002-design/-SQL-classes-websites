@@ -1,0 +1,8 @@
+Create an infographic showing SQL and Excel integration:
+* SQL database icon connected to Excel spreadsheet
+* Data flow: Database → SQL Query → Excel Export
+* Power Query connection visualization
+* Excel formulas using SQL data
+* Charts and pivot tables from SQL results
+* Professional business analytics style
+* Be10X-inspired modern design

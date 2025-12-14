@@ -1,0 +1,11 @@
+Generate a high-quality SQL coding practice image showing:
+
+* Laptop screen with SQL queries (SELECT, JOIN, GROUP BY)
+* Dark mode code editor
+* Database icons and analytics charts
+* Professional Indian student learning SQL
+* Clean, modern tech workspace
+
+Style: Futuristic, professional, tech education
+Lighting: Soft neon
+Resolution: 4K, ultra-detailed

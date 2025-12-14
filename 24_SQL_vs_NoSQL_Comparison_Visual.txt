@@ -1,0 +1,8 @@
+Generate a comparison infographic: SQL vs NoSQL databases:
+* SQL: Structured, ACID properties, relational (table icon)
+* NoSQL: Flexible, scalable, document-based (document icon)
+* Side-by-side comparison with pros and cons
+* Use case recommendations for each
+* Modern, balanced comparison design
+* Professional educational style
+* Be10X color scheme with clear visual distinction

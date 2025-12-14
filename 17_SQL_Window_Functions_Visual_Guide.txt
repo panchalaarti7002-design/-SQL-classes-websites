@@ -1,0 +1,8 @@
+Create a visual guide for SQL window functions:
+* ROW_NUMBER(), RANK(), DENSE_RANK() examples
+* PARTITION BY visualization with grouped sections
+* OVER() clause explanation with window frame
+* Before/after comparison showing window function results
+* Modern data visualization with charts
+* Professional tech education style
+* Be10X-inspired dark theme with gradient accents

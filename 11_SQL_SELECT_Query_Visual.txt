@@ -1,0 +1,7 @@
+Create a professional infographic showing SQL SELECT query structure:
+* SELECT column1, column2 FROM table_name WHERE condition;
+* Visual breakdown: SELECT (blue), FROM (green), WHERE (orange)
+* Database table icon with rows and columns
+* Result set visualization with highlighted data
+* Modern, clean design with Be10X color scheme
+* Style: Educational, diagram-style, professional

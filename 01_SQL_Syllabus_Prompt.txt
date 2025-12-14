@@ -1,0 +1,20 @@
+Create a professional, job-oriented SQL Classes syllabus for beginners to advanced learners in India.
+Include:
+
+* Introduction to Databases & DBMS
+* RDBMS Concepts (MySQL, PostgreSQL)
+* SQL Basics (SELECT, WHERE, ORDER BY)
+* Constraints & Keys (Primary, Foreign, Unique)
+* Joins (INNER, LEFT, RIGHT, FULL)
+* Subqueries & Nested Queries
+* Aggregate Functions (COUNT, SUM, AVG)
+* GROUP BY & HAVING
+* Views, Indexes, Stored Procedures
+* Transactions & ACID Properties
+* SQL for Data Analytics
+* SQL with Excel & Power BI
+* Real-world Business Case Studies
+* Interview Questions & Live Projects
+* Certification & Career Guidance
+
+Tone: Simple, professional, beginner-friendly, India-focused

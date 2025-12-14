@@ -1,0 +1,6 @@
+Use a Be10X-inspired color palette:
+
+* Dark Blue / Navy background
+* Indigo & Cyan gradients
+* Yellow accent highlights
+* Glassmorphism cards with blur

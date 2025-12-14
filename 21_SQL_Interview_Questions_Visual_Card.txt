@@ -1,0 +1,8 @@
+Generate a series of SQL interview question cards:
+* Card 1: "Explain the difference between WHERE and HAVING"
+* Card 2: "What is a self-join? Give an example"
+* Card 3: "How do you optimize a slow SQL query?"
+* Modern card design with question mark icons
+* Professional, clean layout for study materials
+* Be10X-inspired dark theme with highlighted text
+* Suitable for social media posts and study guides

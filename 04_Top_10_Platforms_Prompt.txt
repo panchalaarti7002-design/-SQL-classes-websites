@@ -1,0 +1,15 @@
+Create a modern, card-based section titled "Top 10 SQL Learning Platforms".
+Include logo placeholders, short descriptions, and tags (Beginner | Practice-based | Certification):
+
+1. W3Schools
+2. SQLZoo
+3. LeetCode (SQL)
+4. HackerRank
+5. Mode Analytics SQL Tutorial
+6. Khan Academy
+7. DataCamp
+8. Coursera
+9. Udemy
+10. Be10X (AI-powered analytics learning)
+
+Design: Glassmorphism cards, hover effects

@@ -1,0 +1,8 @@
+Generate a SQL practice challenge visual:
+* Laptop screen with SQL query editor
+* Challenge question: "Find top 5 customers by order value"
+* Code editor with syntax highlighting
+* Expected result table visualization
+* "Try it yourself" call-to-action
+* Modern, engaging design for learning platforms
+* Be10X-style professional tech education aesthetic

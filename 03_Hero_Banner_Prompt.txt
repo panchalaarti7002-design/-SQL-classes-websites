@@ -1,0 +1,9 @@
+Design a premium hero banner for a SQL & Data Analytics training website inspired by Be10X.
+Include:
+
+* Headline: "Master SQL & Data Analytics with AI-Powered Learning"
+* Subtext: "Industry-ready skills | Live projects | Career support"
+* CTA buttons: "Enroll Now" and "Free Demo"
+* Background: Dark gradient with database, AI, and analytics visuals
+
+Style: Clean, modern, Be10X-inspired, premium

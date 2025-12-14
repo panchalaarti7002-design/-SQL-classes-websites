@@ -1,0 +1,7 @@
+Design an infographic explaining SQL GROUP BY and aggregate functions:
+* Visual showing data rows grouped by category
+* COUNT, SUM, AVG, MAX, MIN functions with icons
+* Before/after comparison: raw data → grouped aggregated data
+* Charts showing aggregated results (bar charts, pie charts)
+* Modern, colorful, educational design
+* Be10X dark theme with neon accents

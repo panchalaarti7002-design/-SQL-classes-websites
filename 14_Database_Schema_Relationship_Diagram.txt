@@ -1,0 +1,8 @@
+Create a professional database schema diagram showing:
+* Multiple tables (Users, Orders, Products, Categories)
+* Primary keys (PK) and Foreign keys (FK) connections
+* Relationship lines with cardinality (1:1, 1:Many, Many:Many)
+* Table structure with column names and data types
+* Clean, modern ERD style diagram
+* Dark background with colored table boxes
+* Be10X-inspired professional design

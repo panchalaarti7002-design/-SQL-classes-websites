@@ -1,0 +1,11 @@
+Add a premium highlighted section titled "Why Learn SQL with Be10X?"
+Include:
+
+* AI-powered learning approach
+* SQL + Generative AI tools
+* Faster learning with smart workflows
+* Productivity hacks for analysts
+* Industry-recognized certification
+* Career & freelancing opportunities
+
+Style: Bold, futuristic, premium dark theme

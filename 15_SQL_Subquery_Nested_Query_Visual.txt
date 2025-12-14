@@ -1,0 +1,7 @@
+Generate an educational diagram showing SQL subqueries:
+* Outer query and inner query (nested) visualization
+* Step-by-step execution flow (1 → 2 → 3)
+* Example: SELECT * FROM table WHERE id IN (SELECT id FROM...)
+* Color-coded query levels (outer: blue, inner: cyan)
+* Result flow arrows showing data processing
+* Modern, tech-education style, Be10X theme

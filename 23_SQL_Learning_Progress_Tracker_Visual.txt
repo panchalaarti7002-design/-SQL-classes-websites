@@ -1,0 +1,8 @@
+Design a SQL learning progress tracker infographic:
+* Beginner → Intermediate → Advanced skill levels
+* Progress bar showing completion percentage
+* Topics checklist: Basics ✓, Joins ✓, Subqueries →, Advanced →
+* Achievement badges for completed modules
+* Modern gamification style design
+* Motivational, engaging visual
+* Be10X-inspired with progress indicators

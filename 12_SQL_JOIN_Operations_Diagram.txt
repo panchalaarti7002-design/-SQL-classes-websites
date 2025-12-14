@@ -1,0 +1,8 @@
+Generate a comprehensive SQL JOIN operations visual diagram showing:
+* INNER JOIN - overlapping circles with matching data
+* LEFT JOIN - left circle highlighted with all records
+* RIGHT JOIN - right circle highlighted with all records
+* FULL OUTER JOIN - both circles with all records
+* Venn diagram style with database table icons
+* Color-coded: INNER (cyan), LEFT (blue), RIGHT (green), FULL (yellow)
+* Professional educational diagram, Be10X-inspired

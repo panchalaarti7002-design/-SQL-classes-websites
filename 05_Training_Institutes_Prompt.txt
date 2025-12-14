@@ -1,0 +1,13 @@
+List top SQL & Data Analytics training institutes in India in a professional layout.
+Include:
+
+* Be10X (AI + Analytics Focus)
+* UpGrad
+* Simplilearn
+* Great Learning
+* AnalytixLabs
+* ExcelR
+* Jigsaw Academy
+* Imarticus Learning
+
+Add: Mode (Online/Offline), Placement Support, Certification

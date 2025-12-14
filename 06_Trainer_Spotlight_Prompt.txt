@@ -1,0 +1,10 @@
+Create a Top Trainer Spotlight section for a SQL & Data Analytics course.
+Include:
+
+* 10+ years industry experience
+* Expertise in SQL, Power BI, Excel, AI tools
+* Real corporate & business case studies
+* Mentorship, interview prep & career guidance
+* Be10X-style AI productivity workflows
+
+Layout: Trainer photo, bio, achievements, student success stats

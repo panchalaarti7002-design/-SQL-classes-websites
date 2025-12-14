@@ -1,0 +1,8 @@
+Design a career path infographic for SQL learners:
+* Entry Level: SQL Developer → Data Analyst
+* Mid Level: Senior Analyst → Business Intelligence Analyst
+* Advanced: Data Engineer → Database Administrator
+* Salary ranges and skill requirements for each level
+* Icons: Database, charts, analytics, career growth arrow
+* Motivational, professional design
+* Be10X color scheme with gradient career path

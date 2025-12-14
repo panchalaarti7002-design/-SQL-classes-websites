@@ -1,0 +1,16 @@
+Design a complete SQL Classes & Data Analytics website inspired by Be10X.
+Pages:
+
+* Home
+* Syllabus
+* Platforms
+* Trainers
+* Projects
+* Certifications
+* Contact & Enroll
+
+Tech Stack:
+* HTML, CSS, JavaScript
+* Modern cards, gradients, glassmorphism
+* Responsive & mobile-friendly
+* Dark professional theme

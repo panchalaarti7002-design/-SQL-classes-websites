@@ -1,0 +1,8 @@
+Design an infographic explaining SQL constraints and keys:
+* Primary Key icon (golden key) with unique constraint
+* Foreign Key icon (silver key) with relationship arrow
+* Unique constraint (checkmark icon)
+* NOT NULL, CHECK, DEFAULT constraints with visual examples
+* Table structure showing constraint application
+* Professional, educational design with icons
+* Be10X color palette: dark blue, cyan, yellow accents
